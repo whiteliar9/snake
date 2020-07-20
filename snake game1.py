@@ -91,5 +91,5 @@ def main():
         FPSCLOCK.tick(5)
 
 if __name__ == '__main__':
-    print("start!!")
+    print("start!!@@@@")
     main()
